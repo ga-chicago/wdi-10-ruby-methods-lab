@@ -1,6 +1,6 @@
 ![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# wdi-10-chi _fluff-hounds_
+# wdi-11-chi _curious-turtles_
 
 ---
 Title: Ruby Intro<br>
