@@ -8,7 +8,7 @@ Type: Lab<br>
 Creator: WDI-Funke <br>
 Modified by: Thom Page for WDIr-Gizmo<br>
 Competencies: Basic Ruby<br>
-Date: Jan 30, 2018<br>
+Date: May 1, 2018<br>
 
 ---
 
